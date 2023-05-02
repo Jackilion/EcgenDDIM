@@ -1,5 +1,5 @@
 # EcgenDDIM
-A DDIM model for producing 2s ECGs
+A DDIM model for producing 2s ECGs, implemented in JAX/ Flax
 
 # How to use
 Call the main.py with the desired hyperparameters. Any physionet database should do, provided they are cut into 2s intervals. For reproducibility, I can offer the synthetic database I used, just shoot me a message.
